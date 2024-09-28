@@ -25,13 +25,13 @@ This is a simple Snake Game implemented in C. The game is played on a 10x20 grid
 ### Steps to Compile:
 * Save the code in a file named **snake_game.c**
 * Open a terminal and navigate to the directory where the file is saved.
-  
-1. **Compile the code using this command:**
+
+**Compile the code using this command:**
    
       gcc snake_game.c -o snake_game.exe
   
-3. **Run the game with the following command:**
-   
+**Run the game with the following command:**
+
       ./snake_game.exe
   
 ## Important Notes:
